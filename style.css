@@ -17,12 +17,12 @@ a:link {
 a:hover {
     font-style: bold;
     color: #ffffff;
-    background-color: #0056b3;
+    background-color: #9dc9f8;
 }
 
-a:visited {
+/*a:visited {
 	color: #333;
-}
+}*/
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -117,7 +117,7 @@ body {
 
 .content h3 {
     margin: 0px 0 0px;
-    color: #0056b3;
+    color: #0469d4;
     font-size: 0.95rem;
 }
 
@@ -125,7 +125,7 @@ body {
 .meta-info {
     background: #eef4f9;
     padding: 18px;
-    border-left: 5px solid #0056b3;
+    border-left: 5px solid #0469d4;
     margin-bottom: 0px;
     font-size: 1rem;
 }
